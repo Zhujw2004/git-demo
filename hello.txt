@@ -1,9 +1,6 @@
 hello Git111
 hello Git
-<<<<<<< HEAD
 hello Githello1
 hello Githot-fix1
-=======
 hello Git
 hello Githot-fix2
->>>>>>> hot-fix
